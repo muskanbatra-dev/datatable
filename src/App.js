@@ -10,7 +10,8 @@ const App = () => {
   return (
     <div>
    
-    <ColumnHiding/>
+    
+    <PaginationTable/>
     
     </div>
   )

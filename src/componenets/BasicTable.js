@@ -22,6 +22,8 @@ export const BasicTable = () => {
 
   return (
     <>
+    
+    
       <table {...getTableProps()}>
         <thead>
           {headerGroups.map(headerGroup => (
